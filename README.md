@@ -1,7 +1,30 @@
-## 📊 Datasets Used
+# Smart Health Companion 🏥
 
-Due to GitHub file size limits, datasets are not included in this repository.
+An AI-powered healthcare assistant designed to provide smart health analysis and support using Machine Learning techniques.
 
-- Symptom & Disease Dataset: https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
-- Medicine Details Dataset: https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects
-- Drug Interaction Dataset: https://www.kaggle.com/datasets/ruchi798/drug-interactions
+## 🚀 Features
+- Health-related prediction system
+- OCR-based text extraction
+- Machine Learning integration
+- User-friendly interface
+- Smart healthcare assistance
+
+## 🛠️ Tech Stack
+- Python
+- Flask
+- Scikit-learn
+- TensorFlow
+- OpenCV
+- Pytesseract
+
+## 📂 Project Structure
+
+```text
+smart-health-companion/
+│
+├── app.py
+├── model/
+├── static/
+├── templates/
+├── requirements.txt
+└── README.md
