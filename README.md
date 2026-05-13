@@ -28,8 +28,7 @@ smart-health-companion/
 ├── templates/
 ├── requirements.txt
 └── README.md
-
-🌱 Future Improvements
+**##🌱 Future Improvements**
 Deploy as web application
 Improve prediction accuracy
 Add chatbot support
